@@ -205,4 +205,4 @@ Project Link: [https://github.com/harshith-eth/TechCrunch-Newsletter-Generator](
 <p align="center">
   Made with ❤️ by Harshith Vaddiparthy<br>
   <small>© 2024 Harshith Vaddiparthy. All rights reserved.</small>
-</p> 
+</p>
