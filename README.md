@@ -9,7 +9,7 @@
 
 > Transform TechCrunch articles into engaging newsletters instantly using AI-powered content generation.
 
-🔗 **[Live Demo](https://techcrunch-newsletter-generator.vercel.app)** | [GitHub Repository](https://github.com/harshith-eth/TechCrunch-Newsletter-Generator)
+🔗 **[Live Demo](https://tech-crunch-newsletter-generator.vercel.app)** | [GitHub Repository](https://github.com/harshith-eth/TechCrunch-Newsletter-Generator)
 
 ![Project Demo](https://source.unsplash.com/random/1200x630/?newsletter,tech)
 
@@ -188,15 +188,15 @@ Contributions are what make the open source community such an amazing place to l
 
 **Harshith Vaddiparthy**
 - GitHub: [@harshith-eth](https://github.com/harshith-eth)
-- Twitter: [@harshith_eth](https://twitter.com/harshith_eth)
-- LinkedIn: [Harshith Vaddiparthy](https://linkedin.com/in/harshith-eth)
+- Twitter: [@harshithio](https://x.com/harshithio)
+- LinkedIn: [Harshith Vaddiparthy](https://www.linkedin.com/in/harshith-vaddiparthy/)
 
 ## 📧 Contact
 
 For any questions or feedback, feel free to reach out:
 
 - Email: harshithvaddiparthy@gmail.com
-- Twitter: [@harshith_eth](https://twitter.com/harshith_eth)
+- Twitter: [@harshithio](https://x.com/harshithio)
 
 Project Link: [https://github.com/harshith-eth/TechCrunch-Newsletter-Generator](https://github.com/harshith-eth/TechCrunch-Newsletter-Generator)
 
